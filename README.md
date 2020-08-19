@@ -1,7 +1,6 @@
 ## Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/nili209/nili209)](https://badges.pufler.dev)   
 My name is Nili Cohen and I'm a student at Bar Ilan University.  
-
-[![Visits Badge](https://badges.pufler.dev/visits/nili209/nili209)](https://badges.pufler.dev) 
 
 #### 🔧 Technologies & Tools
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
