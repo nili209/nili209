@@ -15,7 +15,7 @@ My name is Nili Cohen and I'm a student at Bar Ilan University.
   <img style="display:block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nili209&layout=compact" />
 </a>  
 <a href="https://github.com/nili209/nili209">
-  <img src="https://github-readme-stats.vercel.app/api?username=nili209&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nili209&show_icons=true&theme=synthwave" />
 </a>  
 
 #### 📫 How To Reach Me:   
