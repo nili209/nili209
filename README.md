@@ -2,6 +2,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/nili209/nili209)](https://badges.pufler.dev)   
 My name is Nili Cohen and I'm a student at Bar Ilan University.  
 
+#### 📫 How To Reach Me:   
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nili-cohen-6562811b5/)
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/nili.cohen.581)
+<a href="mailto:1998nili@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>  
+
 #### 🔧 Technologies & Tools
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
@@ -18,11 +23,6 @@ My name is Nili Cohen and I'm a student at Bar Ilan University.
 <a href="https://github.com/nili209/nili209">
   <img src="https://github-readme-stats.vercel.app/api?username=nili209&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>  
-
-#### 📫 How To Reach Me:   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nili-cohen-6562811b5/)
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/nili.cohen.581)
-<a href="mailto:1998nili@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>  
 
 
 <!--
