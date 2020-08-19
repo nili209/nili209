@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/nili209/nili209/master/readme_header.png "Header")](https://martinheinz.dev/)
 ## Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/nili209/nili209)](https://badges.pufler.dev)   
 My name is Nili Cohen and I'm a student at Bar Ilan University.  
@@ -13,10 +12,10 @@ My name is Nili Cohen and I'm a student at Bar Ilan University.
 
 #### &#x1f4c8; GitHub Stats
 <a href="https://github.com/nili209/nili209">
-  <img style="display:block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nili209&layout=compact" />
+  <img style="display:block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nili209&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>  
 <a href="https://github.com/nili209/nili209">
-  <img src="https://github-readme-stats.vercel.app/api?username=nili209&show_icons=true&line_height=27&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nili209&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"" />
 </a>  
 
 #### 📫 How To Reach Me:   
